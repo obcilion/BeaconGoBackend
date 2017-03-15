@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  encounter_id: MyString
+  spawnpoint_id: MyString
+  pokemon_id: 1
+  latitude: 9.99
+  longitude: 9.99
+  disappear_time: 2017-03-15 19:14:01
+  individual_attack: 1
+  individual_defence: 1
+  individual_stamina: 1
+  move_1: 1
+  move_2: 1
+  weight: 9.99
+  height: 9.99
+  gender: 
+
+two:
+  encounter_id: MyString
+  spawnpoint_id: MyString
+  pokemon_id: 1
+  latitude: 9.99
+  longitude: 9.99
+  disappear_time: 2017-03-15 19:14:01
+  individual_attack: 1
+  individual_defence: 1
+  individual_stamina: 1
+  move_1: 1
+  move_2: 1
+  weight: 9.99
+  height: 9.99
+  gender: 
